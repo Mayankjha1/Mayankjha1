@@ -1,13 +1,15 @@
 <h1 align="center">Hello 👋, I'm Mayank Jha</h1>
 <h3 align="center">A passionate Salesforce QA Engineer from India</h3>
 
-<img align=“right” alt=“Coding width=“400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+
 
 - 🌱 I’m currently learning **Automation**
 
 - 📫 How to reach me **Mayankjha237@gmail.com**
 
-- 📄 Know about my experiences [3 Years in QA](3 Years in QA)
+- 📄 Know about my experiences [3 Years in QA]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
